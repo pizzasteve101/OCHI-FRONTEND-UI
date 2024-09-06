@@ -1,8 +1,19 @@
-# React + Vite
+# OCHI-FRONTEND
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+**Technologies:**
+* React
+* Vite
+* Javascript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Installation:**
+1. Clone the repository: `git clone https://github.com/pizzasteve101/OCHI-FRONTEND-UI.git`
+2. Install dependencies: `npm install`
+
+
+**Usage:**
+1. Start the development server: `npm run dev`
+2. Open your browser and navigate to http://localhost:3000/
+
+**Contributing:**
+Feel free to contribute by opening issues or submitting pull requests.
